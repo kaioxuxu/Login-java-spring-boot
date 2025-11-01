@@ -1,6 +1,6 @@
 # 🔐 LoginApp - Sistema de Autenticação Spring Boot (API REST)
 
-**Desenvolvido por: Kaio Alexsander da Silva de Sá**
+### **Desenvolvido por: Kaio Alexsander da Silva de Sá**
 
 Este projeto é uma API RESTful simples para gerenciamento de usuários e autenticação (Login/Cadastro), construída com Spring Boot, Spring Data JPA e MySQL (via XAMPP). O objetivo é demonstrar uma arquitetura de back-end em camadas (Controller, Service, Repository) com persistência de dados.
 
@@ -70,7 +70,6 @@ spring.jpa.show-sql=true
       * **Via IDE (VS Code/IntelliJ):** Clique no botão "Run" ao lado do método `main`.
       * **Via Terminal (após configurar o Maven):** `mvn spring-boot:run`
 
----
 
 2.  Aguarde a mensagem no console: `Tomcat started on port 8080 (http)`.
 
